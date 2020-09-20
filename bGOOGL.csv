@@ -1,0 +1,196 @@
+;name;2014;2015;2016;2017;2018
+0;Sales/Revenue;65.83B;73.59B;89.73B;111.02B;136.96B
+1;Sales Growth;21.94%;23.73%;23.36%;;
+2;Cost of Goods Sold (COGS) incl. D&A;25.69B;28.16B;35.14B;45.58B;59.55B
+3;COGS excluding D&A;20.71B;23.1B;28.99B;38.67B;50.51B
+4;Depreciation & Amortization Expense;4.98B;5.06B;6.14B;6.92B;9.04B
+5;Depreciation;3.52B;4.13B;5.27B;6.1B;8.16B
+6;Amortization of Intangibles;1.46B;931M;877M;812M;871M
+7;COGS Growth;24.76%;29.73%;30.64%;;
+8;Gross Income;40.14B;45.43B;54.6B;65.44B;77.41B
+9;Gross Income Growth;20.18%;19.87%;18.29%;;
+10;Gross Profit Margin;-;-;-;-;
+11;SG&A Expense;23.81B;27.47B;31.42B;36.39B;45.88B
+12;Research & Development;9.83B;12.28B;13.95B;16.63B;21.42B
+13;Other SG&A;13.98B;15.18B;17.47B;19.77B;24.46B
+14;SGA Growth;26.07%;;;;
+15;Other Operating Expense;-;-;-;-;-
+16;Unusual Expense;281M;302M;375M;2.86B;900M
+17;EBIT after Unusual Expense;(281M);(302M);22.8B;26.19B;30.63B
+18;Non Operating Income/Expense;570M;1.32B;454M;(45M);2.64B
+19;Non-Operating Interest Income;746M;999M;1.22B;1.31B;1.88B
+20;Equity in Affiliates (Pretax);-;(227M);(202M);(156M);(120M)
+21;Interest Expense;101M;104M;124M;109M;114M
+22;Interest Expense Growth;19.23%;-12.10%;;;
+23;Gross Interest Expense;101M;104M;124M;157M;206M
+24;Interest Capitalized;-;-;-;48M;92M
+25;Pretax Income;17.26B;19.65B;24.15B;27.19B;34.91B
+26;Pretax Income Growth;22.89%;28.39%;;;
+27;Pretax Margin;-;-;-;-;
+28;Income Tax;3.64B;3.3B;4.67B;14.53B;4.18B
+29;Income Tax - Current Domestic;2.87B;2.84B;3.83B;12.61B;2.15B
+30;Income Tax - Current Foreign;774M;723M;966M;1.75B;1.25B
+31;Income Tax - Deferred Domestic;35M;(241M);(70M);220M;907M
+32;Income Tax - Deferred Foreign;(43M);(17M);(50M);(43M);(134M)
+33;Income Tax Credits;-;-;-;-;-
+34;Equity in Affiliates;-;-;-;-;-
+35;Other After Tax Income (Expense);-;(522M);-;-;-
+36;Consolidated Net Income;13.62B;15.83B;19.48B;12.66B;30.74B
+37;Minority Interest Expense;-;-;-;-;-
+38;Net Income;13.62B;15.83B;19.48B;12.66B;30.74B
+39;Net Income Growth;-34.99%;142.74%;;;
+40;Net Margin Growth;-;-;-;-;
+41;Extraordinaries & Discontinued Operations;516M;-;-;-;-
+42;Extra Items & Gain/Loss Sale Of Assets;740M;-;-;-;-
+43;Cumulative Effect - Accounting Chg;-;-;-;-;-
+44;Discontinued Operations;(224M);-;-;-;-
+45;Net Income After Extraordinaries;14.14B;15.83B;19.48B;12.66B;30.74B
+46;Preferred Dividends;-;-;-;-;-
+47;Net Income Available to Common;13.4B;15.83B;19.48B;12.66B;30.74B
+48;EPS (Basic);19.82;23.12;28.32;18.27;44.22
+49;EPS (Basic) Growth;-35.47%;141.96%;;;
+50;Basic Shares Outstanding;675.94M;684.63M;687.78M;692.9M;695.14M
+51;EPS (Diluted);19.50;22.84;27.88;18.00;43.70
+52;EPS (Diluted) Growth;-35.44%;142.85%;;;
+53;Diluted Shares Outstanding;687.07M;692.93M;698.71M;703.58M;703.29M
+54;EBITDA;21.3B;23.02B;29.32B;35.97B;40.57B
+55;EBITDA Growth;27.35%;22.66%;;;
+56;EBITDA Margin;-;-;-;-;
+57;Cash & Short Term Investments;64.4B;73.07B;86.33B;101.87B;109.14B
+58;Cash Only;18.35B;16.55B;12.92B;10.72B;16.7B
+59;Short-Term Investments;46.05B;56.52B;73.42B;91.16B;92.44B
+60;Cash & Short Term Investments Growth;13.47%;18.16%;18.00%;;
+61;Cash & ST Investments / Total Assets;49.85%;49.55%;51.54%;51.63%;46.88%
+62;Total Accounts Receivable;10.85B;13.91B;14.23B;18.71B;21.19B
+63;Accounts Receivables, Net;9.38B;11.56B;14.14B;18.34B;20.84B
+64;Accounts Receivables, Gross;9.61B;11.85B;14.6B;19.01B;21.57B
+65;Bad Debt/Doubtful Accounts;(225M);(296M);(467M);(674M);(729M)
+66;Other Receivables;1.47B;2.35B;95M;369M;355M
+67;Accounts Receivable Growth;28.21%;31.43%;;;
+68;Accounts Receivable Turnover;6.07;5.29;6.31;5.94;6.46
+69;Inventories;-;491M;268M;749M;1.11B
+70;Finished Goods;-;-;-;-;1.11B
+71;Work in Progress;-;-;-;-;-
+72;Raw Materials;-;-;-;-;-
+73;Progress Payments & Other;-;-;-;-;-
+74;Other Current Assets;3.41B;2.65B;4.58B;2.98B;4.24B
+75;Miscellaneous Current Assets;3.41B;2.65B;4.58B;2.98B;4.24B
+76;Total Current Assets;78.66B;90.11B;105.41B;124.31B;135.68B
+77;Net Property, Plant & Equipment;23.88B;29.02B;34.23B;42.38B;59.72B
+78;Property, Plant & Equipment - Gross;32.75B;40.15B;47.53B;59.65B;82.51B
+79;Buildings;13.33B;16.52B;19.8B;23.18B;30.18B
+80;Land & Improvements;-;-;-;-;-
+81;Computer Software and Equipment;10.92B;13.65B;16.08B;21.43B;30.12B
+82;Other Property, Plant & Equipment;1.95B;2.66B;3.47B;4.54B;5.37B
+83;Accumulated Depreciation;8.86B;11.13B;13.29B;17.26B;22.79B
+84;Total Investments and Advances;3.08B;5.18B;5.88B;7.81B;13.86B
+85;Other Long-Term Investments;-;983M;1.18B;1.91B;12.56B
+86;Long-Term Note Receivable;1.33B;1.34B;1.4B;-;-
+87;Intangible Assets;20.21B;19.72B;19.78B;19.44B;20.11B
+88;Net Goodwill;15.6B;15.87B;16.47B;16.75B;17.89B
+89;Net Other Intangibles;4.61B;3.85B;3.31B;2.69B;2.22B
+90;Other Assets;1.86B;1.85B;422M;2.67B;2.69B
+91;Tangible Other Assets;1.86B;1.85B;422M;2.67B;2.69B
+92;Total Assets;129.19B;147.46B;167.5B;197.3B;232.79B
+93;Assets - Total - Growth;14.15%;13.59%;17.79%;17.99%;
+94;ST Debt & Current Portion LT Debt;2.01B;3.23B;-;-;-
+95;Short Term Debt;2B;2B;-;-;-
+96;Current Portion of Long Term Debt;10M;1.23B;-;-;-
+97;Accounts Payable;1.72B;1.93B;2.04B;3.14B;4.38B
+98;Accounts Payable Growth;53.70%;39.56%;;;
+99;Income Tax Payable;96M;302M;554M;881M;69M
+100;Other Current Liabilities;12.96B;13.85B;14.16B;20.17B;30.17B
+101;Dividends Payable;-;-;-;-;-
+102;Accrued Payroll;3.07B;3.54B;3.98B;4.58B;6.84B
+103;Miscellaneous Current Liabilities;9.89B;10.31B;10.19B;15.58B;23.33B
+104;Total Current Liabilities;16.78B;19.31B;16.76B;24.18B;34.62B
+105;Long-Term Debt;3.23B;2B;3.94B;3.97B;4.01B
+106;Long-Term Debt excl. Capitalized Leases;2.99B;2B;3.94B;3.94B;3.95B
+107;Non-Convertible Debt;2.99B;2B;3.94B;3.94B;3.95B
+108;Convertible Debt;-;-;-;-;-
+109;Capitalized Lease Obligations;236M;-;-;26M;62M
+110;Provision for Risks & Charges;-;-;-;-;-
+111;Deferred Taxes;582M;(62M);(157M);(250M);527M
+112;Deferred Taxes - Credit;758M;189M;226M;430M;1.26B
+113;Deferred Taxes - Debit;176M;251M;383M;680M;737M
+114;Other Liabilities;4.56B;5.64B;7.54B;16.21B;15.27B
+115;Other Liabilities (excl. Deferred Income);4.46B;5.49B;7.34B;15.87B;14.87B
+116;Deferred Income;104M;151M;202M;340M;396M
+117;Total Liabilities;25.33B;27.13B;28.46B;44.79B;55.16B
+118;Non-Equity Reserves;-;-;-;-;-
+119;Total Liabilities / Total Assets;19.60%;18.40%;16.99%;22.70%;23.70%
+120;Preferred Stock (Carrying Value);-;-;-;-;-
+121;Redeemable Preferred Stock;-;-;-;-;-
+122;Non-Redeemable Preferred Stock;-;-;-;-;-
+123;Common Equity (Total);103.86B;120.33B;139.04B;152.5B;177.63B
+124;Common Stock Par/Carry Value;680,000;687,348;691,293;694,783;695,556
+125;Retained Earnings;75.07B;89.22B;105.13B;113.25B;134.89B
+126;ESOP Debt Guarantee;-;-;-;-;-
+127;Cumulative Translation Adjustment/Unrealized For. Exch. Gain;(980M);(2.05B);(2.65B);(1.1B);(1.88B)
+128;Unrealized Gain/Loss Marketable Securities;421M;(86M);(179M);233M;(688M)
+129;Revaluation Reserves;-;-;-;-;-
+130;Treasury Stock;-;-;-;-;-
+131;Common Equity / Total Assets;80.40%;81.60%;83.01%;77.30%;76.30%
+132;Total Shareholders' Equity;103.86B;120.33B;139.04B;152.5B;177.63B
+133;Total Shareholders' Equity / Total Assets;80.40%;81.60%;83.01%;77.30%;76.30%
+134;Accumulated Minority Interest;-;-;-;-;-
+135;Total Equity;103.86B;120.33B;139.04B;152.5B;177.63B
+136;Liabilities & Shareholders' Equity;129.19B;147.46B;167.5B;197.3B;232.79B
+137;Net Income before Extraordinaries;14.14B;16.35B;19.48B;12.66B;30.74B
+138;Net Income Growth;-34.99%;142.74%;;;
+139;Depreciation, Depletion & Amortization;4.98B;5.06B;6.14B;6.92B;9.04B
+140;Depreciation and Depletion;3.52B;4.13B;5.27B;6.1B;8.16B
+141;Amortization of Intangible Assets;1.46B;931M;877M;812M;871M
+142;Deferred Taxes & Investment Tax Credit;(104M);(179M);(38M);258M;778M
+143;Deferred Taxes;(104M);(179M);(38M);258M;778M
+144;Investment Tax Credit;-;-;-;-;-
+145;Other Funds;2.69B;5.75B;7.15B;8.01B;2.51B
+146;Funds from Operations;21.7B;26.98B;32.74B;27.85B;43.06B
+147;Extraordinaries;-;-;-;-;-
+148;Changes in Working Capital;672M;(409M);3.3B;9.25B;4.91B
+149;Receivables;(1.64B);(2.09B);(2.58B);(3.77B);(2.17B)
+150;Accounts Payable;436M;203M;110M;731M;1.07B
+151;Other Assets/Liabilities;284M;(275M);535M;(1.77B);(836M)
+152;Net Operating Cash Flow;22.38B;26.57B;36.04B;37.09B;47.97B
+153;Net Operating Cash Flow Growth;35.62%;29.33%;;;
+154;Net Operating Cash Flow / Sales;33.99%;36.11%;40.16%;33.41%;35.03%
+155;Capital Expenditures;(10.96B);(9.95B);(10.21B);(13.18B);(25.14B)
+156;Capital Expenditures (Fixed Assets);(10.96B);(9.95B);(10.21B);(13.18B);(25.14B)
+157;Capital Expenditures (Other Assets);-;-;-;-;-
+158;Capital Expenditures Growth;9.21%;-2.63%;-29.10%;-90.68%;
+159;Capital Expenditures / Sales;-16.65%;-13.52%;-11.38%;-11.87%;-18.36%
+160;Net Assets from Acquisitions;(4.89B);(236M);(986M);(287M);(1.49B)
+161;Sale of Fixed Assets & Businesses;386M;35M;240M;99M;98M
+162;Purchase/Sale of Investments;(7B);(13.21B);(17.78B);(19.45B);(1.97B)
+163;Purchase of Investments;(58.31B);(76.69B);(85.62B);(93.94B);(52.23B)
+164;Sale/Maturity of Investments;51.32B;63.48B;67.84B;74.49B;50.26B
+165;Other Uses;-;(350M);(2.43B);-;-
+166;Other Sources;1.4B;-;-;1.42B;-
+167;Net Investing Cash Flow;(21.06B);(23.71B);(31.17B);(31.4B);(28.5B)
+168;Net Investing Cash Flow Growth;-12.61%;-31.44%;-0.76%;9.23%;
+169;Net Investing Cash Flow / Sales;-31.98%;-32.22%;-34.73%;-28.28%;-20.81%
+170;Cash Dividends Paid - Total;-;-;-;-;-
+171;Common Dividends;-;-;-;-;-
+172;Preferred Dividends;-;-;-;-;-
+173;Change in Capital Stock;-;(1.78B);(3.69B);(4.85B);(9.08B)
+174;Repurchase of Common & Preferred Stk.;-;(1.78B);(3.69B);(4.85B);(9.08B)
+175;Sale of Common & Preferred Stock;-;-;-;-;-
+176;Proceeds from Stock Options;-;-;-;-;-
+177;Other Proceeds from Sale of Stock;-;-;-;-;-
+178;Issuance/Reduction of Debt, Net;(18M);(23M);(1.34B);(86M);(61M)
+179;Change in Current Debt;-;-;-;-;-
+180;Change in Long-Term Debt;(18M);(23M);(1.34B);(86M);(61M)
+181;Issuance of Long-Term Debt;11.63B;13.71B;8.73B;4.29B;6.77B
+182;Reduction in Long-Term Debt;(11.64B);(13.73B);(10.06B);(4.38B);(6.83B)
+183;Other Funds;(1.42B);(2.42B);(3.3B);(3.37B);(4.04B)
+184;Other Uses;(2.07B);(2.42B);(3.3B);(4.17B);(4.99B)
+185;Other Sources;648M;-;-;800M;950M
+186;Net Financing Cash Flow;(1.44B);(4.23B);(8.33B);(8.3B);(13.18B)
+187;Net Financing Cash Flow Growth;-193.61%;-97.21%;0.41%;-58.82%;
+188;Net Financing Cash Flow / Sales;-2.19%;-5.74%;-9.29%;-7.47%;-9.62%
+189;Exchange Rate Effect;(433M);(434M);(170M);405M;(302M)
+190;Miscellaneous Funds;-;-;-;-;-
+191;Net Change in Cash;(551M);(1.8B);(3.63B);(2.2B);5.99B
+192;Free Cash Flow;11.42B;16.62B;25.82B;23.91B;22.83B
+193;Free Cash Flow Growth;45.59%;55.36%;-7.42%;-4.50%;
+194;Free Cash Flow Yield;-;-;-;-;
