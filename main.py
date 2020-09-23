@@ -6,7 +6,7 @@ Developer: Stanislav Ermokhin
 
 import pandas as pd
 
-YEAR = 2018
+YEAR = 2014
 DIC = {'Assets': {'Cash & Short Term Investments': {'Cash Only': '',
                                                     'Short-Term Investments': ''},
                   'Total Accounts Receivable': {'Accounts Receivables, Net': {'Accounts Receivables, Gross': '',
